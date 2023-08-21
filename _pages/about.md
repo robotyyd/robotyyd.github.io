@@ -21,7 +21,6 @@ Research Work
 Magnetic Tweezers
 
 <div style="display: flex; align-items: center;">
-  <img src='/images/tweezer.png' style="height: 400px; margin-right: 10px;">
-  <img src='/images/tri_pole.png' style="height: 400px;">
+  <img src='/images/tweezerall.png' style="height: 400px;">
 </div>
 
