@@ -19,3 +19,4 @@ Before joining UD, I worked as a research assistant in the [Advanced Actuators a
 Research Work
 -------------
 Magnetic Tweezer
+<img src='/images/tweezer.png' width='400' height='600'>
