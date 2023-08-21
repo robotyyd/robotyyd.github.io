@@ -24,3 +24,7 @@ Magnetic Tweezers
   <img src='/images/tweezerall.png' style="height: 200px;">
 </div>
 
+Microrobots Tracking and Speed Estimation
+<div style="display: flex; align-items: center;">
+  <img src='/images/speed.gif' style="height: 200px;">
+</div>
