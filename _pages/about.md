@@ -25,7 +25,9 @@ Magnetic Tweezers
 </div>
 
 Helmholtz Coils
-
+<div style="display: flex; align-items: center;">
+  <img src='/images/helmholtz.jpg' style="height: 200px;">
+</div>
 
 Closed Loop Control (Rolling) of Magnetic Microrobots
 <div style="display: flex; align-items: center;">
