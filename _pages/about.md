@@ -36,7 +36,8 @@ Closed Loop Control (Rolling) of Magnetic Microrobots
 
 Closed Loop Control (Orienting) of Self-Propelled Microrobots
 <div style="display: flex; align-items: center;">
-  <img src='/images/bubble.gif' style="height: 200px;">
+  <img src='/images/bubble.gif' style="height: 200px; margin-right: 10px;">
+  <img src='/images/closeloop.png' style="height: 200px;">
 </div>
 
 Microrobots Tracking and Speed Estimation
