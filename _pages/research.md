@@ -9,32 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.E. in Measurement and Control Technology and Instrument, Beijing Jiaotong University, 2019
-* M.Sc. in Robotics, University of Bristol, 2020
-* Ph.D. in Mechanical Engineering, University of Delaware, 2027 (expected)
+Magnetic Tweezers
+=====
+<div style="display: flex; align-items: center;">
+  <img src='/images/tweezerall.png' style="height: 200px;">
+</div>
 
-Research Experience
-======
-* Summer 2020: Master Thesis Student
-  * Bristol Robotics Laboratory, University of the West of England Bristol
-  * Autonomous Robot Evolution
-  * Supervisor: Dr. Matthew Hale
+Helmholtz Coils
+=====
+<div style="display: flex; align-items: center;">
+  <img src='/images/helmholtz.jpg' style="height: 200px;">
+</div>
 
-* 2020-2022: Research Assistant
-  * Advanced Actuators and Robotics Lab, Southern University of Science and Technology
-  * Soft Robot Locomotion
-  * Supervisor: Dr. Hongqiang Wang
- 
-* 2020-2022: Research Assistant
-  * Soft Microrobots for Tissue Lab, University of Delaware
-  * ◦ Microrobot Control
-  * Supervisor: Dr. Sambeeta Das
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Microrobots Tracking and Speed Estimation
+=====
+<div style="display: flex; align-items: center;">
+  <img src='/images/speed.gif' style="height: 200px;">
+</div>
+
+Closed Loop Control (Rolling) of Magnetic Microrobots
+=====
+<div style="display: flex; align-items: center;">
+  <img src='/images/helical.gif' style="height: 200px; margin-right: 10px;">
+  <img src='/images/rotating_field.png' style="height: 200px;">
+</div>
+
+Closed Loop Control (Orienting) of Self-Propelled Microrobots
+=====
+<div style="display: flex; align-items: center;">
+  <img src='/images/bubble.gif' style="height: 200px; margin-right: 10px;">
+  <img src='/images/closeloop.png' style="height: 200px;">
+</div>
+
+Single Pole Magnetic Tweezer
+=====
+<div style="display: flex; align-items: center;">
+  <img src='/images/one.gif' style="height: 200px;">
+</div>
+
 
