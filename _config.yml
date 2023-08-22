@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/yanda-yang-ba3b61211/
-  orcid            : https://orcid.org/0009-0001-8492-6235
+  linkedin         : "https://www.linkedin.com/in/yanda-yang-ba3b61211/"
+  orcid            : "https://orcid.org/0009-0001-8492-6235"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
