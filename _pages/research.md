@@ -61,6 +61,10 @@ Currently it’s just a prototype to decrease the number of the poles, thereby i
 UV Emitter for Light-steered Microrobots
 =====
 A UV LED prototype for light-steered microrobot control. Use UV Fused Silica Plano-Convex Lens (Uncoated) to transfer point light source to parallel light source. Use heat sink and thermal interface material (thermal paste) under MCPCB for cooling.
+<div style="display: flex; align-items: center;">
+  <img src='/images/light1.jpg' style="height: 200px; margin-right: 10px;">
+  <img src='/images/light2.jpg' style="height: 200px;">
+</div>
 
 Portable Control System
 =====
