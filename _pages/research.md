@@ -11,6 +11,11 @@ redirect_from:
 
 Magnetic Tweezers
 =====
+Different kinds of magnetic tweezers that I developed: tri-pole, quadru-pole, 2D, and 3D.
+
+Magnetic tweezers employ electromagnetic coils and tip-shaped poles to create a magnetic field gradient, thereby exerting a magnetic force on magnetic particles when an input current is applied to the coils. 
+
+The yoke is 3D printed using Metal PLA. The magnetic poles are constructed from a Nickel-Iron soft ferromagnetic alloy (Mu-Metal). The electromagnetic coils are wound with 28 AWG Enameled Copper Wire.
 <div style="display: flex; align-items: center;">
   <img src='/images/tweezerall.png' style="height: 200px;">
 </div>
