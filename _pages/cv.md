@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -37,3 +36,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Honors and Awards
+=====
+* First Prize in 10th National Fischertechnik Engineering Technology Innovation Design Competition
+* Certificate of Professional Development Accreditation from China Instrument and Control Society
+* Best Student Paper Nomination on MARSS 2023
