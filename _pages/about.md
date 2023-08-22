@@ -29,9 +29,9 @@ Helmholtz Coils
   <img src='/images/helmholtz.jpg' style="height: 200px;">
 </div>
 
-Single Pole Magnetic Tweezer
+Microrobots Tracking and Speed Estimation
 <div style="display: flex; align-items: center;">
-  <img src='/images/one.gif' style="height: 200px;">
+  <img src='/images/speed.gif' style="height: 200px;">
 </div>
 
 Closed Loop Control (Rolling) of Magnetic Microrobots
@@ -46,7 +46,7 @@ Closed Loop Control (Orienting) of Self-Propelled Microrobots
   <img src='/images/closeloop.png' style="height: 200px;">
 </div>
 
-Microrobots Tracking and Speed Estimation
+Single Pole Magnetic Tweezer
 <div style="display: flex; align-items: center;">
-  <img src='/images/speed.gif' style="height: 200px;">
+  <img src='/images/one.gif' style="height: 200px;">
 </div>
