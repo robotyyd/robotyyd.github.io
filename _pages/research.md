@@ -10,7 +10,7 @@ redirect_from:
 
 Magnetic Tweezers
 =====
-Different kinds of magnetic tweezers that I developed: tri-pole, quadru-pole, 2D, and 3D.
+Different kinds of magnetic tweezers that I developed: singlepoel, tripole, quadrupole, and Hexapole.
 
 Magnetic tweezers employ electromagnetic coils and tip-shaped poles to create a magnetic field gradient, thereby exerting a magnetic force on magnetic particles when an input current is applied to the coils. 
 
