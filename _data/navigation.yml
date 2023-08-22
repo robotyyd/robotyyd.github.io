@@ -6,10 +6,10 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Research Works"
+  - title: "Research"
     url: /portfolio/
         
-  - title: "Robotics Projects"
+  - title: "Projects"
     url: /year-archive/
     
   - title: "CV"
