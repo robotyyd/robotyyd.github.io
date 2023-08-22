@@ -67,4 +67,5 @@ Portable Control System
 A simple control system for the micromanipulators. Include: 1 Raspberry Pi 4 Model B, 2 Motor HAT (8 coils output), and 1 touch screen. 
 Max input voltage: 12V. 
 Max output current: 3.5A.
+Also the system is equipped with a PS5 controller to control the direction of the microrobot by operating the joystick manually.
 
