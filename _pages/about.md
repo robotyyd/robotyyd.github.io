@@ -31,7 +31,8 @@ Helmholtz Coils
 
 Closed Loop Control (Rolling) of Magnetic Microrobots
 <div style="display: flex; align-items: center;">
-  <img src='/images/helical.gif' style="height: 200px;">
+  <img src='/images/helical.gif' style="height: 200px; margin-right: 10px;">
+  <img src='/images/rotating_field.png' style="height: 200px;">
 </div>
 
 Closed Loop Control (Orienting) of Self-Propelled Microrobots
