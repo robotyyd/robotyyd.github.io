@@ -62,8 +62,7 @@ UV Emitter for Light-steered Microrobots
 =====
 A UV LED prototype for light-steered microrobot control. Use UV Fused Silica Plano-Convex Lens (Uncoated) to transfer point light source to parallel light source. Use heat sink and thermal interface material (thermal paste) under MCPCB for cooling.
 <div style="display: flex; align-items: center;">
-  <img src='/images/light1.jpg' style="height: 200px; margin-right: 10px;">
-  <img src='/images/light2.jpg' style="height: 200px;">
+  <img src='/images/light.jpg' style="height: 200px;">
 </div>
 
 Portable Control System
@@ -72,4 +71,6 @@ A simple control system for the micromanipulators. Include: 1 Raspberry Pi 4 Mod
 Max input voltage: 12V. 
 Max output current: 3.5A.
 Also the system is equipped with a PS5 controller to control the direction of the microrobot by operating the joystick manually.
-
+<div style="display: flex; align-items: center;">
+  <img src='/images/system.jpg' style="height: 200px;">
+</div>
