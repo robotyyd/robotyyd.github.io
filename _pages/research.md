@@ -43,7 +43,8 @@ Closed Loop Control (Rolling) of Magnetic Microrobots
 Use Helmholtz coils to generate rotating magnetic field to actuate microrobots to roll, and use microscope camera to get visual feedback to minimize the error between desired trajectory and actual trajectory. Our study demonstrated a satisfactory tracking performance of the microrobot, with a peak error of 2.5 μm for a 10 μm microrobot.
 <div style="display: flex; align-items: center;">
   <img src='/images/helical.gif' style="height: 200px; margin-right: 10px;">
-  <img src='/images/rotating_field.png' style="height: 200px;">
+  <img src='/images/rotating_field.png' style="height: 200px; margin-right: 10px;">
+  <img src='/images/compare.png' style="height: 200px; margin-right: 10px;">
 </div>
 <br>
 
