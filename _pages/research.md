@@ -10,7 +10,7 @@ redirect_from:
 
 Magnetic Tweezers
 =====
-Different kinds of magnetic tweezers that I developed: singlepoel, tripole, quadrupole, and Hexapole.
+Different kinds of magnetic tweezers that I developed: singlepoel, tripole, quadrupole, and hexapole.
 
 Magnetic tweezers employ electromagnetic coils and tip-shaped poles to create a magnetic field gradient, thereby exerting a magnetic force on magnetic particles when an input current is applied to the coils. 
 
@@ -22,7 +22,7 @@ The yoke is 3D printed using Metal PLA. The magnetic poles are constructed from 
 
 Helmholtz Coils
 =====
-Helmholtz Coils that I made: 
+Helmholtz coils for the microscope with an incubation chamber: 
 
 <div style="display: flex; align-items: center;">
   <img src='/images/helmholtz.jpg' style="height: 200px;">
