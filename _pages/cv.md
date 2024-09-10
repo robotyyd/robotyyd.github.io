@@ -28,7 +28,7 @@ Experience
  
 * 2022-current: Research Assistant
   * Soft Microrobots for Tissue Lab, University of Delaware
-  * ◦ Microrobotics
+  * Microrobotics
   * Supervisor: Dr. Sambeeta Das
  
 * 2024 Fall: Teaching Assistant
