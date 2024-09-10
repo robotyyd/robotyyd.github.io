@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-MEEG671: Introduction to Robotics
+MEEG671: Introduction to Robotics (Instructor: Dr. Panagiotis Artemiadis)
 ======
-* 2024 Spring Graduate Course supervisor by Dr. Panagiotis Artemiadis
+* 2024 Spring Graduate Course
 * Department of Mechanical Engineering
 * University of Delaware
