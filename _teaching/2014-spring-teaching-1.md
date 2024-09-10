@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "MEEG671: Introduction to Robotics"
 collection: teaching assistant
 type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,6 +8,5 @@ date: 2024 Spring
 location: "Newark, DE"
 ---
 
-MEEG671: Introduction to Robotics (Teaching Assistant)
-======
+Teaching Assistant
 Supervisor: Dr. Panagiotis Artemiadis
