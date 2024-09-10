@@ -31,9 +31,9 @@ Experience
   * Microrobotics
   * Supervisor: Dr. Sambeeta Das
  
-* 2024 Fall: Teaching Assistant
+* 2024 Spring: Teaching Assistant
   * MEEG671: Introduction to Robotics
-  * Supervisor: Dr. Panagiotis Artemiadis
+  * Instructor: Dr. Panagiotis Artemiadis
   
 Publications
 ======
