@@ -8,10 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+MEEG671: Introduction to Robotics
 ======
-
- 
-* 2024 Fall: Teaching Assistant
-  * MEEG671: Introduction to Robotics
-  * Supervisor: Dr. Panagiotis Artemiadis
+* 2024 Spring: Teaching Assistant
+* Supervisor: Dr. Panagiotis Artemiadis
+* Graduate Course
+* Department of Mechanical Engineering
+* University of Delaware
