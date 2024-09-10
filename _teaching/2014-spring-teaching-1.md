@@ -1,20 +1,13 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+collection: teaching assistant
+type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Delaware, Department of Mechanical Engineering"
+date: 2024 Spring
+location: "Newark, DE"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+MEEG671: Introduction to Robotics (Teaching Assistant)
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Supervisor: Dr. Panagiotis Artemiadis
