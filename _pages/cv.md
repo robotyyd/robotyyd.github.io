@@ -14,22 +14,26 @@ Education
 * M.Sc. in Robotics, University of Bristol, 2020
 * Ph.D. in Mechanical Engineering, University of Delaware, 2027 (expected)
 
-Research Experience
+Experience
 ======
-* Summer 2020: Master Thesis Student
+* 2020 Summer: Master Thesis Student
   * Bristol Robotics Laboratory, University of the West of England Bristol
-  * Autonomous Robot Evolution
+  * Evolutionary Robotics
   * Supervisor: Dr. Matthew Hale
 
 * 2020-2022: Research Assistant
   * Advanced Actuators and Robotics Lab, Southern University of Science and Technology
-  * Soft Robot Locomotion
+  * Soft Robotics
   * Supervisor: Dr. Hongqiang Wang
  
-* 2020-2022: Research Assistant
+* 2022-current: Research Assistant
   * Soft Microrobots for Tissue Lab, University of Delaware
-  * ◦ Microrobot Control
+  * ◦ Microrobotics
   * Supervisor: Dr. Sambeeta Das
+ 
+* 2024 Fall: Teaching Assistant
+  * MEEG671: Introduction to Robotics
+  * Supervisor: Dr. Panagiotis Artemiadis
   
 Publications
 ======
