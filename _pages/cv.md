@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-* 2020 Summer: Master Thesis Student
+* 2020 Summer: Master Student
   * Bristol Robotics Laboratory, University of the West of England Bristol
   * Evolutionary Robotics
   * Supervisor: Dr. Matthew Hale
